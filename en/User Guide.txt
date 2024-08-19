@@ -1,0 +1,12 @@
+Warning: You need to type -9999 for the program to run in interrupt. But do not use -9999 command for files with .frb extension
+
+Windows:
+Interrupt --> furbe_interrupt.exe
+Compiler --> compiler.exe
+Editor --> WrixtraFurbeEdition
+
+Linux:
+Interrupt --> chmod 777 furbelang1 && ./furbelang_en
+Compiler --> chmod 777 derleyici && ./compiler
+
+Producers: Furkan D & Beyza D
