@@ -1,0 +1,12 @@
+not: interruptta programın çalışması için -9999 yazmanız gerekmektedir. Fakat .frb uzantılı dosyalarda -9999 kullanmayın
+
+Windows:
+Interrupt --> furbe_interrupt.exe
+Derleyici --> derleyici.exe
+Editör --> WrixtraFurbeEdition
+
+Linuxta:
+Interrupt --> chmod 777 furbelang1 && ./furbelang1
+Derleyici --> chmod 777 derleyici && ./derleyici
+
+Yapımcılar: Furkan D & Beyza D
